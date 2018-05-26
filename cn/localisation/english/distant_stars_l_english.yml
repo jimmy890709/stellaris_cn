@@ -1449,21 +1449,21 @@
  distar.3033.desc:0 "A system enabling us to quickly chart underground terrain and the minerals it contains has been implemented.\n\nBy analyzing planetary reflection of particular solar and cosmic rays, which are unable to penetrate most minerals, we can gather data on the crust's mineral composition. This makes it possible to essentially x-ray a target body, be it an asteroid or part of a planet.\n\nOur scientists have dubbed it Mineral Mapping, and it should greatly improve our mineral production."
 
  ### Alien Machine ###
- distar.3040.name:0 "Alien Machine"
- distar.3040.desc:0 "Further scans suggest the machine is still operational, though its purpose remains entirely unclear.\n\nScience Officer [Root.GetLeaderName] has never seen anything like it. Some of its materials look familiar, but most are strange and utterly alien as the design of its components.\n\nThe machine has what appears to be a console, with one item in particular standing out: a large crooked lever of unknown material."
- distar.3040.a:0 "Pull the lever."
- distar.3040.a.tooltip:0 "Science Officer [Root.GetLeaderName] pulls the strange lever."
- distar.3040.b:0 "Take it apart."
- distar.3040.b.tooltip:0 "The machine is disassembled and its parts salvaged."
+ distar.3040.name:0 "外星机器"
+ distar.3040.desc:0 "根据进一步的扫描发现这个机器仍在运行，不过还不解它的目的。\n\n科学家 [Root.GetLeaderName] 过去从来没看过类似的东西。其上的某些材料虽然看起来很熟悉，不过大多组件是奇怪且陌生的外星设计。\n\n这机器上看来有个控制台，而且有个东西特别明显：一个未知材料制成的弯曲控制杆。"
+ distar.3040.a:0 "拉动控制杆。"
+ distar.3040.a.tooltip:0 "科学家 [Root.GetLeaderName] 拉动了奇怪的控制杆。"
+ distar.3040.b:0 "把它拆开。"
+ distar.3040.b.tooltip:0 "拆解这个机器並回收了其零件。"
 
- distar.3041.name:0 "Alien Machine"
- distar.3041.desc:0 "It is unclear what happened when the machine's lever was pulled.\n\nIts console flickered, powerful vibrations could be felt, and then a wave of energy surged from the machine, expanding outwards into deep space. The scientists close by felt this wave push past them, but experienced no other sensory evidence of its passing.\n\nScience Officer [Root.GetLeaderName] is unsure what to make of it. The machine itself returned to its inactive state immediately thereafter, and no longer returns any energy readings."
- distar.3041.a:0 "How strange. Now take it apart."
- distar.3041.b:0 "Intriguing. Research the machine."
- distar.3041.b.tooltip:1 "Adds the §YAlien Machine§! modifier to [asteroid_target.GetName]:\n£physics  §G+7§!"
+ distar.3041.name:0 "外星机器"
+ distar.3041.desc:0 "目前还不清楚拉下机器的控制杆后发生了什么事。\n\n其控制台闪烁，并发出能明显感觉的强力震动，接着一股能量从机器涌出，往外扩散至深空。附近的科学家感觉到能量穿过了他们，不过没有其它感官证据能证明有穿过。\n\n科学家 [Root.GetLeaderName] 不确定接下来要对机器做什么。机器本身立刻的回复到非活动状态，且不再显示任何能量读数。"
+ distar.3041.a:0 "好奇怪。现在拆开它。"
+ distar.3041.b:0 "真有趣。研究这台机器。"
+ distar.3041.b.tooltip:1 "为 [asteroid_target.GetName] 添加§Y外星机器§!调整因素：\n£physics  §G+7§!"
  
- distar.3042.name:0 "Energy Spike"
- distar.3042.desc:1 "An enormous spike in energy readings from a nearby solar system has been observed.\n\nOur scientists are worried about what could have caused such a prodigious energy pulse. The common hypothesis appear to be that of a supernova or, though unlikely, a tear in the very fabric of space-time, such as a wormhole.\n\nScience Officer [unknown_machine_science_ship.GetLeaderName] has pointed out that this curiously occurred soon after the activation of the strange machine found on [asteroid_target.GetName].\n\nWe should make haste to explore nearby systems, such as §Y[system_one.GetName]§!."
+ distar.3042.name:0 能量尖刺"
+ distar.3042.desc:1 "观测到来自附近星系的能量尖刺读数大幅增加。\n\n我们的科学家担心是什么会产生出这样巨大的能量脉冲。普遍的臆测认为是一颗超新星或者，虽然不太可能，但是这样对太空时间超结构的撕裂，可能是个黑洞。\n\n科学家 [unknown_machine_science_ship.GetLeaderName] 指出这奇怪现象在 [asteroid_target.GetName] 上的奇怪机器启动后就发生了。\n\n我们应该赶紧搜索附近的星系，像是 §Y[system_one.GetName]§!。"
 
  ### Orbital Speed Demon ###
  distar.3050.name:0 "Orbital Speed Demon"
